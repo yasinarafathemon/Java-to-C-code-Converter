@@ -48,7 +48,7 @@ C and Java have different programming paradigms (procedural vs. object-oriented)
 
 ## 🧾 Authors
 
-- Md. Yeasir Arafath Emon (ID: 2020-2-60-182)
+- Md. Yeasin Arafath Emon (ID: 2020-2-60-182)
 - Nowshin Tabassum Ushna (ID: 2020-2-60-083)
 
 ## 🧑‍🏫 Supervisor
